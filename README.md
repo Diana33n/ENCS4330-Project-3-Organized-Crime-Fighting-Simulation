@@ -87,7 +87,9 @@ make
 
 The simulation ends if:
 ✅ Police thwarts more than `max_thwarted_plans` crimes.
+
 ✅ Gangs succeed in more than `max_successful_plans` crimes.
+
 ✅ More than `max_executed_agents` agents are uncovered and executed.
 
 ---
