@@ -65,26 +65,7 @@ This system models dynamic gang activities, secret agent infiltration, and polic
 
 ---
 
-## ⚙️ Configuration Example (`config.txt`)
 
-```txt
-num_gangs=3
-min_members=7
-max_members=10
-num_ranks=10
-agent_success_rate=20
-suspicion_threshold=100
-info_spread_depth=3
-false_spread_rate=40
-plan_success_rate=70
-prison_time=2
-kill_rate=10
-max_thwarted_plans=10
-max_successful_plans=10
-max_executed_agents=6
-```
-
----
 
 ## 🚀 Build & Run
 
