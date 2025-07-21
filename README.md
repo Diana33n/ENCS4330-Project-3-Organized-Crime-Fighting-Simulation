@@ -86,6 +86,7 @@ make
 ## 📊 Termination Conditions
 
 The simulation ends if:
+
 ✅ Police thwarts more than `max_thwarted_plans` crimes.
 
 ✅ Gangs succeed in more than `max_successful_plans` crimes.
