@@ -5,7 +5,9 @@
 A multi-processing, multi-threaded simulation of undercover agents infiltrating organized crime gangs. Designed as part of:
 
 > 📘 **ENCS4330 – Real-Time Applications & Embedded Systems**
+
 > 📅 *2nd Semester 2024/2025*
+
 > 👨‍🏫 Instructor: Dr. Hanna Bullata
 
 This system models dynamic gang activities, secret agent infiltration, and police intervention—leveraging **POSIX threads**, **shared memory**, **semaphores**, and **message queues** for coordination. 🧠
